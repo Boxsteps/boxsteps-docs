@@ -1,0 +1,8 @@
+Búsqueda de patrones (Pattern matching)
+
+- Diferencia entre la evaluación estudiantil y docente.
+- Diferencia entre los aspectos humanistas y científicos.
+- Diferencia entre promedios y notas exactas.
+- Evaluación del docente en razón del tiempo.
+- Evaluación del estudiante en razón del tiempo.
+- Evaluación del curso en razón del tiempo.
